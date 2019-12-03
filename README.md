@@ -11,6 +11,6 @@ The files include events from upscattering on nuclei as well as on protons, as i
 
 If you use this work please cite it as
 
-C. A. Argelles, M. Hostert, and Y.-D. Tsai, (2018), arXiv:1812.08768 [hep-ph].
+C. A. Argüelles, M. Hostert, and Y.-D. Tsai, (2018), arXiv:1812.08768 [hep-ph].
 
 https://arxiv.org/abs/1812.08768
